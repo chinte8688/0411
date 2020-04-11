@@ -1,0 +1,18 @@
+[04/10/2020 20:20.04.633] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[04/10/2020 20:20.04.633] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[04/10/2020 20:20.04.633] WudfCoInstaller: ImpersonationLevel set to 2
+
+[04/10/2020 20:20.04.648] WudfCoInstaller: Final status: error(0) 操作順利完成。
+
+
+[04/10/2020 20:20.04.833] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+AudMig: Device Ids match - {2}.\\?\root#media#0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topology/00010000 {2}.\\?\root#media#0001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topology/00010000
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 1
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 7
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 11
+AudMig: Migrated {b3f8fa53-0004-438e-9003-51a46e139bfc},0 property at 13
+AudMig: Migrated {f19f064d-082c-4e27-bc73-6882a1bb8e4c},0 property at 14
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{4114424A-7399-4836-8B3B-49F5F8740EF3} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Capture\{1F1F704B-6C69-46D4-BD0F-31AD8084A8E1}
